@@ -2,7 +2,7 @@
 
 ## Group 27
 
-### Course Project Back-end Repository
+### Course Project UI/UX Repository
 
 Link to the figma document:
 
